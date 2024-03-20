@@ -9,7 +9,8 @@ Note: This is a beginner project, serving as a learning endeavor. While function
 - `cd Web-Nodejs_Mongo-API`
 - `code .` (this will open directory in visual code studio)
 - `npm init`
-- `npm install express mongodb`
+- `npm install` (this will install all package in package.json)
+- `create a .env to store your database string connection`
 
 ## Usage
 - You can deploy it on your own using Vercel or use `https://mongo-db-api-coral.vercel.app/`[endpoint].
